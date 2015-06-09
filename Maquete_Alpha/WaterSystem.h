@@ -15,6 +15,7 @@ class WaterSystemClass
 
 
  public:
+	void ControlarTanques();
 	float GetVolumeR1();
 	float GetVolumeR2();
 	float GetVolumeTanque();

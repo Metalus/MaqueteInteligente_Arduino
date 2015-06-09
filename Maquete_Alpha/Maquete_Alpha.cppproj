@@ -5,7 +5,7 @@
     <ProjectVersion>6.2</ProjectVersion>
     <ToolchainName>com.Atmel.AVRGCC8.CPP</ToolchainName>
     <ProjectGuid>{1339fee6-2d7e-401a-ab65-d770c4178eca}</ProjectGuid>
-    <avrdevice>atmega328p</avrdevice>
+    <avrdevice>atmega2560</avrdevice>
     <avrdeviceseries>none</avrdeviceseries>
     <OutputType>Executable</OutputType>
     <Language>CPP</Language>
@@ -52,8 +52,7 @@
   <avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>True</avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>
   <avrgcc.compiler.symbols.DefSymbols>
     <ListValues>
-      <Value>__AVR_ATmega328p__</Value>
-      <Value>__AVR_ATmega328P__</Value>
+      <Value>__AVR_ATmega2560__</Value>
       <Value>_VMDEBUG=1</Value>
       <Value>ARDUINO=161</Value>
       <Value>ARDUINO_MAIN</Value>
@@ -70,7 +69,7 @@
       <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
       <Value>D:/Program Files (x86)/Arduino/libraries</Value>
       <Value>../../Maquete_Alpha</Value>
-      <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard</Value>
+      <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega</Value>
       <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino</Value>
     </ListValues>
   </avrgcc.compiler.directories.IncludePaths>
@@ -83,8 +82,7 @@
   <avrgcccpp.compiler.general.ChangeDefaultBitFieldUnsigned>True</avrgcccpp.compiler.general.ChangeDefaultBitFieldUnsigned>
   <avrgcccpp.compiler.symbols.DefSymbols>
     <ListValues>
-      <Value>__AVR_ATmega328p__</Value>
-      <Value>__AVR_ATmega328P__</Value>
+      <Value>__AVR_ATmega2560__</Value>
       <Value>_VMDEBUG=1</Value>
       <Value>ARDUINO=161</Value>
       <Value>ARDUINO_MAIN</Value>
@@ -101,7 +99,7 @@
       <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
       <Value>D:/Program Files (x86)/Arduino/libraries</Value>
       <Value>../../Maquete_Alpha</Value>
-      <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard</Value>
+      <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega</Value>
       <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino</Value>
     </ListValues>
   </avrgcccpp.compiler.directories.IncludePaths>
@@ -113,41 +111,54 @@
   <avrgcccpp.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcccpp.assembler.debugging.DebugLevel>
 </AvrGccCpp>
     </ToolchainSettings>
-    <VMSETTING_IncludePaths>D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard;../../Maquete_Alpha;D:/Program Files (x86)/Arduino/libraries;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers;{runtime.tools.avr-gcc.path}/avr/include/;{runtime.tools.avr-gcc.path}//avr/include/avr/;{runtime.tools.avr-gcc.path}/lib/gcc/avr/4.8.1/include;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega;D:/Program Files (x86)/Arduino/libraries/Ethernet/src;D:/Program Files (x86)/Arduino/libraries/Ethernet/src/utility;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/utility;</VMSETTING_IncludePaths>
+    <VMSETTING_IncludePaths>D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard;../../Maquete_Alpha;D:/Program Files (x86)/Arduino/libraries;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers;{runtime.tools.avr-gcc.path}/avr/include/;{runtime.tools.avr-gcc.path}//avr/include/avr/;{runtime.tools.avr-gcc.path}/lib/gcc/avr/4.8.1/include;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega;D:/Program Files (x86)/Arduino/libraries/Ethernet/src;D:/Program Files (x86)/Arduino/libraries/Ethernet/src/utility;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/utility;D:/Program Files (x86)/Arduino/libraries/Ethercard;D:/Program Files (x86)/Arduino/libraries/Ethercard/utility;</VMSETTING_IncludePaths>
     <VisualMicroSettings>
       <VisualMicroSettings>
-        <arduino.upload.port>COM3</arduino.upload.port>
-        <arduino.board.name>uno</arduino.board.name>
-        <arduino.board.desc>Arduino Uno</arduino.board.desc>
-        <arduino.board.property_bag>name=Arduino Uno
+        <arduino.upload.port>COM4</arduino.upload.port>
+        <arduino.board.name>mega_atmega2560</arduino.board.name>
+        <arduino.board.desc>Arduino Mega w/ ATmega2560 (Mega 2560)</arduino.board.desc>
+        <arduino.board.property_bag>name=Arduino Mega w/ ATmega2560 (Mega 2560)
 vid.0=0x2341
-pid.0=0x0043
+pid.0=0x0010
 vid.1=0x2341
-pid.1=0x0001
+pid.1=0x0042
 vid.2=0x2A03
-pid.2=0x0043
+pid.2=0x0010
+vid.3=0x2A03
+pid.3=0x0042
 vid.0x2A03.warning=Uncertified
 upload.tool=avrdude
-upload.protocol=arduino
-upload.maximum_size=32256
-upload.maximum_data_size=2048
-upload.speed=115200
+upload.maximum_data_size=8192
 bootloader.tool=avrdude
 bootloader.low_fuses=0xFF
-bootloader.high_fuses=0xDE
-bootloader.extended_fuses=0x05
 bootloader.unlock_bits=0x3F
 bootloader.lock_bits=0x0F
-bootloader.file=optiboot/optiboot_atmega328.hex
-build.mcu=atmega328p
 build.f_cpu=16000000L
-build.board=AVR_UNO
 build.core=arduino
-build.variant=standard
+build.variant=mega
+build.board=AVR_MEGA2560
+menu.cpu.atmega2560=ATmega2560 (Mega 2560)
+menu.cpu.atmega2560.upload.protocol=wiring
+menu.cpu.atmega2560.upload.maximum_size=253952
+menu.cpu.atmega2560.upload.speed=115200
+menu.cpu.atmega2560.bootloader.high_fuses=0xD8
+menu.cpu.atmega2560.bootloader.extended_fuses=0xFD
+menu.cpu.atmega2560.bootloader.file=stk500v2/stk500boot_v2_mega2560.hex
+menu.cpu.atmega2560.build.mcu=atmega2560
+menu.cpu.atmega2560.build.board=AVR_MEGA2560
+menu.cpu.atmega1280=ATmega1280
+menu.cpu.atmega1280.upload.protocol=arduino
+menu.cpu.atmega1280.upload.maximum_size=126976
+menu.cpu.atmega1280.upload.speed=57600
+menu.cpu.atmega1280.bootloader.high_fuses=0xDA
+menu.cpu.atmega1280.bootloader.extended_fuses=0xF5
+menu.cpu.atmega1280.bootloader.file=atmega/ATmegaBOOT_168_atmega1280.hex
+menu.cpu.atmega1280.build.mcu=atmega1280
+menu.cpu.atmega1280.build.board=AVR_MEGA
 runtime.ide.path=D:\Program Files (x86)\Arduino
 build.system.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr\system
 runtime.ide.version=161
-originalid=uno
+originalid=mega
 intellisense.tools.path={runtime.tools.avr-gcc.path}/
 intellisense.include.paths={intellisense.tools.path}avr/include/;{intellisense.tools.path}/avr/include/avr/;{intellisense.tools.path}lib\gcc\avr\4.8.1\include
 tools.atprogram.cmd.path=%AVRSTUDIO_EXE_PATH%\atbackend\atprogram
@@ -209,6 +220,13 @@ tools.avrdude.bootloader.pattern="{cmd.path}" "-C{config.path}" {bootloader.verb
 build.usb_manufacturer="Unknown"
 build.usb_flags=-DUSB_VID={build.vid} -DUSB_PID={build.pid} '-DUSB_MANUFACTURER={build.usb_manufacturer}' '-DUSB_PRODUCT={build.usb_product}'
 vm.platform.root.path=C:\Program Files (x86)\Visual Micro\Visual Micro for Arduino\Micro Platforms\arduino16x
+upload.protocol=wiring
+upload.maximum_size=253952
+upload.speed=115200
+bootloader.high_fuses=0xD8
+bootloader.extended_fuses=0xFD
+bootloader.file=stk500v2/stk500boot_v2_mega2560.hex
+build.mcu=atmega2560
 ide.hint=Arduino 1.6.x ide with support for downloaded Board Manager custom tools and hardware
 ide.location.key=Arduino16x
 ide.location.ide.winreg=Arduino 1.6.x Application
@@ -246,31 +264,13 @@ vm.boardsource.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr
 runtime.platform.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr
 vm.platformname.name=avr
 build.arch=AVR
-build.architecture=avr
-vmresolved.compiler.path=D:\Program Files (x86)\Arduino\hardware\tools\avr\bin\
-vmresolved.tools.path=D:\Program Files (x86)\Arduino\hardware\tools\avr
-vm.runtime.compiler.showwarnings=false
-serial.port.file=COM3
-serial.port=COM3
-serial.port.num=3
-build.source.path=C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\Maquete_Alpha\Maquete_Alpha\Maquete_Alpha.ino
-extra.time.local=59050450
-includes= -I"D:\Program Files (x86)\Arduino\hardware\arduino\avr\cores\arduino"  -I"D:\Program Files (x86)\Arduino\hardware\arduino\avr\variants\standard" 
-build.path=C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno
-build.project_name=Maquete_Alpha
-build.variant.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr\variants\standard
-build.core.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr\cores\arduino
-archive_file=core.a
-object_file=C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno\WaterSystem.cpp.o
-source_file=C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno\WaterSystem.cpp
-object_files="C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno\EletricSystem.cpp.o" "C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno\MainClass.cpp.o" "C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno\Maquete_Alpha.cpp.o" "C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno\WaterSystem.cpp.o" 
 </arduino.board.property_bag>
-        <arduino.build.mcu>atmega328p</arduino.build.mcu>
+        <arduino.build.mcu>atmega2560</arduino.build.mcu>
         <arduino.build.f_cpu>16000000L</arduino.build.f_cpu>
         <arduino.build.core>arduino</arduino.build.core>
-        <arduino.upload.protocol>arduino</arduino.upload.protocol>
+        <arduino.upload.protocol>wiring</arduino.upload.protocol>
         <arduino.upload.speed>115200</arduino.upload.speed>
-        <arduino.upload.maximum_size>32256</arduino.upload.maximum_size>
+        <arduino.upload.maximum_size>253952</arduino.upload.maximum_size>
         <visualmicro.application.name>arduino16x</visualmicro.application.name>
         <visualmicro.package.name>arduino</visualmicro.package.name>
         <visualmicro.platform.name>avr</visualmicro.platform.name>
@@ -289,8 +289,7 @@ object_files="C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_
   <avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>True</avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>
   <avrgcc.compiler.symbols.DefSymbols>
     <ListValues>
-      <Value>__AVR_ATmega328p__</Value>
-      <Value>__AVR_ATmega328P__</Value>
+      <Value>__AVR_ATmega2560__</Value>
       <Value>_VMDEBUG=1</Value>
       <Value>ARDUINO=161</Value>
       <Value>ARDUINO_MAIN</Value>
@@ -307,7 +306,7 @@ object_files="C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_
       <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
       <Value>D:/Program Files (x86)/Arduino/libraries</Value>
       <Value>../../Maquete_Alpha</Value>
-      <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard</Value>
+      <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega</Value>
       <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino</Value>
     </ListValues>
   </avrgcc.compiler.directories.IncludePaths>
@@ -320,8 +319,7 @@ object_files="C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_
   <avrgcccpp.compiler.general.ChangeDefaultBitFieldUnsigned>True</avrgcccpp.compiler.general.ChangeDefaultBitFieldUnsigned>
   <avrgcccpp.compiler.symbols.DefSymbols>
     <ListValues>
-      <Value>__AVR_ATmega328p__</Value>
-      <Value>__AVR_ATmega328P__</Value>
+      <Value>__AVR_ATmega2560__</Value>
       <Value>_VMDEBUG=1</Value>
       <Value>ARDUINO=161</Value>
       <Value>ARDUINO_MAIN</Value>
@@ -338,7 +336,7 @@ object_files="C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_
       <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
       <Value>D:/Program Files (x86)/Arduino/libraries</Value>
       <Value>../../Maquete_Alpha</Value>
-      <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard</Value>
+      <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega</Value>
       <Value>D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino</Value>
     </ListValues>
   </avrgcccpp.compiler.directories.IncludePaths>
@@ -350,41 +348,54 @@ object_files="C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_
   <avrgcccpp.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcccpp.assembler.debugging.DebugLevel>
 </AvrGccCpp>
     </ToolchainSettings>
-    <VMSETTING_IncludePaths>D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard;../../Maquete_Alpha;D:/Program Files (x86)/Arduino/libraries;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers;{runtime.tools.avr-gcc.path}/avr/include/;{runtime.tools.avr-gcc.path}//avr/include/avr/;{runtime.tools.avr-gcc.path}/lib/gcc/avr/4.8.1/include;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega;D:/Program Files (x86)/Arduino/libraries/Ethernet/src;D:/Program Files (x86)/Arduino/libraries/Ethernet/src/utility;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/utility;</VMSETTING_IncludePaths>
+    <VMSETTING_IncludePaths>D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard;../../Maquete_Alpha;D:/Program Files (x86)/Arduino/libraries;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers;{runtime.tools.avr-gcc.path}/avr/include/;{runtime.tools.avr-gcc.path}//avr/include/avr/;{runtime.tools.avr-gcc.path}/lib/gcc/avr/4.8.1/include;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega;D:/Program Files (x86)/Arduino/libraries/Ethernet/src;D:/Program Files (x86)/Arduino/libraries/Ethernet/src/utility;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/utility;D:/Program Files (x86)/Arduino/libraries/Ethercard;D:/Program Files (x86)/Arduino/libraries/Ethercard/utility;</VMSETTING_IncludePaths>
     <VisualMicroSettings>
       <VisualMicroSettings>
-        <arduino.upload.port>COM3</arduino.upload.port>
-        <arduino.board.name>uno</arduino.board.name>
-        <arduino.board.desc>Arduino Uno</arduino.board.desc>
-        <arduino.board.property_bag>name=Arduino Uno
+        <arduino.upload.port>COM4</arduino.upload.port>
+        <arduino.board.name>mega_atmega2560</arduino.board.name>
+        <arduino.board.desc>Arduino Mega w/ ATmega2560 (Mega 2560)</arduino.board.desc>
+        <arduino.board.property_bag>name=Arduino Mega w/ ATmega2560 (Mega 2560)
 vid.0=0x2341
-pid.0=0x0043
+pid.0=0x0010
 vid.1=0x2341
-pid.1=0x0001
+pid.1=0x0042
 vid.2=0x2A03
-pid.2=0x0043
+pid.2=0x0010
+vid.3=0x2A03
+pid.3=0x0042
 vid.0x2A03.warning=Uncertified
 upload.tool=avrdude
-upload.protocol=arduino
-upload.maximum_size=32256
-upload.maximum_data_size=2048
-upload.speed=115200
+upload.maximum_data_size=8192
 bootloader.tool=avrdude
 bootloader.low_fuses=0xFF
-bootloader.high_fuses=0xDE
-bootloader.extended_fuses=0x05
 bootloader.unlock_bits=0x3F
 bootloader.lock_bits=0x0F
-bootloader.file=optiboot/optiboot_atmega328.hex
-build.mcu=atmega328p
 build.f_cpu=16000000L
-build.board=AVR_UNO
 build.core=arduino
-build.variant=standard
+build.variant=mega
+build.board=AVR_MEGA2560
+menu.cpu.atmega2560=ATmega2560 (Mega 2560)
+menu.cpu.atmega2560.upload.protocol=wiring
+menu.cpu.atmega2560.upload.maximum_size=253952
+menu.cpu.atmega2560.upload.speed=115200
+menu.cpu.atmega2560.bootloader.high_fuses=0xD8
+menu.cpu.atmega2560.bootloader.extended_fuses=0xFD
+menu.cpu.atmega2560.bootloader.file=stk500v2/stk500boot_v2_mega2560.hex
+menu.cpu.atmega2560.build.mcu=atmega2560
+menu.cpu.atmega2560.build.board=AVR_MEGA2560
+menu.cpu.atmega1280=ATmega1280
+menu.cpu.atmega1280.upload.protocol=arduino
+menu.cpu.atmega1280.upload.maximum_size=126976
+menu.cpu.atmega1280.upload.speed=57600
+menu.cpu.atmega1280.bootloader.high_fuses=0xDA
+menu.cpu.atmega1280.bootloader.extended_fuses=0xF5
+menu.cpu.atmega1280.bootloader.file=atmega/ATmegaBOOT_168_atmega1280.hex
+menu.cpu.atmega1280.build.mcu=atmega1280
+menu.cpu.atmega1280.build.board=AVR_MEGA
 runtime.ide.path=D:\Program Files (x86)\Arduino
 build.system.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr\system
 runtime.ide.version=161
-originalid=uno
+originalid=mega
 intellisense.tools.path={runtime.tools.avr-gcc.path}/
 intellisense.include.paths={intellisense.tools.path}avr/include/;{intellisense.tools.path}/avr/include/avr/;{intellisense.tools.path}lib\gcc\avr\4.8.1\include
 tools.atprogram.cmd.path=%AVRSTUDIO_EXE_PATH%\atbackend\atprogram
@@ -446,6 +457,13 @@ tools.avrdude.bootloader.pattern="{cmd.path}" "-C{config.path}" {bootloader.verb
 build.usb_manufacturer="Unknown"
 build.usb_flags=-DUSB_VID={build.vid} -DUSB_PID={build.pid} '-DUSB_MANUFACTURER={build.usb_manufacturer}' '-DUSB_PRODUCT={build.usb_product}'
 vm.platform.root.path=C:\Program Files (x86)\Visual Micro\Visual Micro for Arduino\Micro Platforms\arduino16x
+upload.protocol=wiring
+upload.maximum_size=253952
+upload.speed=115200
+bootloader.high_fuses=0xD8
+bootloader.extended_fuses=0xFD
+bootloader.file=stk500v2/stk500boot_v2_mega2560.hex
+build.mcu=atmega2560
 ide.hint=Arduino 1.6.x ide with support for downloaded Board Manager custom tools and hardware
 ide.location.key=Arduino16x
 ide.location.ide.winreg=Arduino 1.6.x Application
@@ -483,31 +501,13 @@ vm.boardsource.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr
 runtime.platform.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr
 vm.platformname.name=avr
 build.arch=AVR
-build.architecture=avr
-vmresolved.compiler.path=D:\Program Files (x86)\Arduino\hardware\tools\avr\bin\
-vmresolved.tools.path=D:\Program Files (x86)\Arduino\hardware\tools\avr
-vm.runtime.compiler.showwarnings=false
-serial.port.file=COM3
-serial.port=COM3
-serial.port.num=3
-build.source.path=C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\Maquete_Alpha\Maquete_Alpha\Maquete_Alpha.ino
-extra.time.local=59050450
-includes= -I"D:\Program Files (x86)\Arduino\hardware\arduino\avr\cores\arduino"  -I"D:\Program Files (x86)\Arduino\hardware\arduino\avr\variants\standard" 
-build.path=C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno
-build.project_name=Maquete_Alpha
-build.variant.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr\variants\standard
-build.core.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr\cores\arduino
-archive_file=core.a
-object_file=C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno\WaterSystem.cpp.o
-source_file=C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno\WaterSystem.cpp
-object_files="C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno\EletricSystem.cpp.o" "C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno\MainClass.cpp.o" "C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno\Maquete_Alpha.cpp.o" "C:\Users\Win 64 Btis\AppData\Local\V.Micro\Arduino\Builds\Maquete_Alpha\uno\WaterSystem.cpp.o" 
 </arduino.board.property_bag>
-        <arduino.build.mcu>atmega328p</arduino.build.mcu>
+        <arduino.build.mcu>atmega2560</arduino.build.mcu>
         <arduino.build.f_cpu>16000000L</arduino.build.f_cpu>
         <arduino.build.core>arduino</arduino.build.core>
-        <arduino.upload.protocol>arduino</arduino.upload.protocol>
+        <arduino.upload.protocol>wiring</arduino.upload.protocol>
         <arduino.upload.speed>115200</arduino.upload.speed>
-        <arduino.upload.maximum_size>32256</arduino.upload.maximum_size>
+        <arduino.upload.maximum_size>253952</arduino.upload.maximum_size>
         <visualmicro.application.name>arduino16x</visualmicro.application.name>
         <visualmicro.package.name>arduino</visualmicro.package.name>
         <visualmicro.platform.name>avr</visualmicro.platform.name>

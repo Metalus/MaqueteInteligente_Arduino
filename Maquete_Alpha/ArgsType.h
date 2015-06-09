@@ -35,7 +35,13 @@ enum ArgsType : long
 	PegarIluminacao		= 0x4000,
 
 	//Desligar client
-	ShutdownClient		= 0x8000
+	ShutdownClient		= 0x8000,
+	
+	
+	ValorIluminacao		= 0x10000
+	
+	
+	
 };
 
 

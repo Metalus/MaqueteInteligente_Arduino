@@ -6,36 +6,40 @@ void EletricSystemClass::Dimerizar(ComodosEnum comodo)
 {
 	int Lampada = Comodos::GetLampadaID(comodo);
 	int Sensor = Comodos::GetSensorID(comodo);
-	
+	if(LuminosidadeAtual[comodo] < 0)
+	{
+		digitalWrite(Lampada, LOW);
+		return;
+	}
 	int luminosidade = map(analogRead(Sensor), 0, 1023, 0, 200);
-	if(LuminosidadeAtual[comodo] != luminosidade && luminosidade >= 25)
+	if(LuminosidadeAtual[comodo] != luminosidade && luminosidade >= 31)
 	{
 		if(LuminosidadeAtual[comodo] > luminosidade)
 		LuminosidadeAtual[comodo]--;
 		else
 		LuminosidadeAtual[comodo]++;
 		
-		delay(250);
+		delay(30);
 		Serial.println(LuminosidadeAtual[comodo]);
-		analogWrite(Lampada,LuminosidadeAtual[comodo]);
+		analogWrite(Lampada,LuminosidadeAtual[comodo] * 2);
 		LedOff[comodo] = false;
 	}
 	
-	else if(luminosidade < 25 && !LedOff[comodo])
-		DesligarLed(comodo, Lampada);	
+	else if(LuminosidadeAtual[comodo] != luminosidade && luminosidade < 31 && !LedOff[comodo])
+	DesligarLed(comodo, Lampada);
 }
 
 void EletricSystemClass::DesligarLed(ComodosEnum comodo, int Lampada)
 {
-	 for(int i = LuminosidadeAtual[comodo]; i>=0;i--)
-	 {
-		 analogWrite(Lampada, i);
-		 delay(120);
-	 }
-	 
-	 analogWrite(Lampada, LOW);
-	 LuminosidadeAtual[comodo] = 0;
-	 LedOff[comodo] = true;
+	for(int i = LuminosidadeAtual[comodo]; i>=0;i--)
+	{
+		analogWrite(Lampada, i * 2);
+		delay(10);
+	}
+	
+	digitalWrite(Lampada, LOW);
+	LuminosidadeAtual[comodo] = 1;
+	LedOff[comodo] = true;
 }
 
 int Comodos::GetLampadaID(ComodosEnum comodo)
@@ -56,10 +60,10 @@ int Comodos::GetLampadaID(ComodosEnum comodo)
 		
 		case Cozinha:
 		return Cozinha_Lampada;
-	
+		
 		default:
 		return -1;
-	}	
+	}
 }
 
 int Comodos::GetSensorID(ComodosEnum comodo)
@@ -83,5 +87,5 @@ int Comodos::GetSensorID(ComodosEnum comodo)
 		
 		default:
 		return -1;
-	}	
+	}
 }

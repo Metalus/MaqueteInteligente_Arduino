@@ -1,5 +1,3 @@
-//#include <SPI/SPI.h>
-//#include <Ethernet.h>
 #include "EletricSystem.h"
 #include "WaterSystem.h"
 /*

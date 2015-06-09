@@ -30,10 +30,10 @@ class Comodos
 class EletricSystemClass
 {
 	private:
-		int LuminosidadeAtual[5] = {0,0,0,0,0};
 		bool LedOff[5] = {false,false,false,false,false};
 	
 	public:
+	int LuminosidadeAtual[5] = {0,0,0,0,0};
 	void Dimerizar(ComodosEnum comodo);
 	void DesligarLed(ComodosEnum comodo, int Lampada);
 };
