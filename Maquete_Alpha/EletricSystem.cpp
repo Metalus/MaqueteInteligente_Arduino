@@ -11,29 +11,29 @@ void EletricSystemClass::Dimerizar(ComodosEnum comodo)
 		digitalWrite(Lampada, LOW);
 		return;
 	}
-	int luminosidade = map(analogRead(Sensor), 0, 1023, 0, 200);
-	if(LuminosidadeAtual[comodo] != luminosidade && luminosidade >= 31)
+	
+	int luminosidade = map(analogRead(Sensor), 0, 800, 0, 255);
+	if(LuminosidadeAtual[comodo] != luminosidade && luminosidade >= 25)
 	{
 		if(LuminosidadeAtual[comodo] > luminosidade)
-		LuminosidadeAtual[comodo]--;
+			LuminosidadeAtual[comodo]--;
 		else
-		LuminosidadeAtual[comodo]++;
+			LuminosidadeAtual[comodo]++;
 		
-		delay(30);
-		Serial.println(LuminosidadeAtual[comodo]);
-		analogWrite(Lampada,LuminosidadeAtual[comodo] * 2);
+		delay(10);
+		analogWrite(Lampada,LuminosidadeAtual[comodo]);
 		LedOff[comodo] = false;
 	}
 	
-	else if(LuminosidadeAtual[comodo] != luminosidade && luminosidade < 31 && !LedOff[comodo])
-	DesligarLed(comodo, Lampada);
+	else if(LuminosidadeAtual[comodo] != luminosidade && luminosidade < 25 && !LedOff[comodo])
+		DesligarLed(comodo, Lampada);
 }
 
 void EletricSystemClass::DesligarLed(ComodosEnum comodo, int Lampada)
 {
 	for(int i = LuminosidadeAtual[comodo]; i>=0;i--)
 	{
-		analogWrite(Lampada, i * 2);
+		analogWrite(Lampada, i);
 		delay(10);
 	}
 	
