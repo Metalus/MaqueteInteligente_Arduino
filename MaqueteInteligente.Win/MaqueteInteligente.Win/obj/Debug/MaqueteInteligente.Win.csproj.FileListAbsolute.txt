@@ -1,0 +1,184 @@
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\MaqueteInteligente.Win.exe
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\MaqueteInteligente.Win.pdb
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.Properties.Resources.resources
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.csproj.GenerateResource.Cache
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.exe.licenses
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.exe
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.pdb
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.MainForm.resources
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.csprojResolveAssemblyReference.cache
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.BonusSkins.v12.2.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Charts.v12.2.Core.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Data.v12.2.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Utils.v12.2.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraBars.v12.2.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraCharts.v12.2.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraCharts.v12.2.UI.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraGauges.v12.2.Core.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraGauges.v12.2.Win.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraNavBar.v12.2.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Data.v12.2.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Utils.v12.2.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraBars.v12.2.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraCharts.v12.2.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraCharts.v12.2.UI.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraGauges.v12.2.Core.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraGauges.v12.2.Win.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraNavBar.v12.2.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraCharts.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraCharts.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraCharts.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraCharts.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraGauges.v12.2.Core.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraGauges.v12.2.Core.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraGauges.v12.2.Core.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraGauges.v12.2.Core.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraNavBar.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraNavBar.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraNavBar.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraNavBar.v12.2.resources.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\MI.Modules.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\MI.Modules.pdb
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.ModuleEletric.frmEletricStatistics.resources
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\MaqueteInteligente.Win.exe.config
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\MaqueteInteligente.Win.exe.config
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\MaqueteInteligente.Win.exe
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\MaqueteInteligente.Win.pdb
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.BonusSkins.v12.2.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Charts.v12.2.Core.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Data.v12.2.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Utils.v12.2.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraBars.v12.2.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraCharts.v12.2.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraCharts.v12.2.UI.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraGauges.v12.2.Core.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraGauges.v12.2.Win.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraNavBar.v12.2.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\MI.Modules.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\MI.Modules.pdb
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Data.v12.2.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.Utils.v12.2.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraBars.v12.2.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraCharts.v12.2.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraCharts.v12.2.UI.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraGauges.v12.2.Core.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraGauges.v12.2.Win.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraGrid.v12.2.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\DevExpress.XtraNavBar.v12.2.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraCharts.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraCharts.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraCharts.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraCharts.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraGauges.v12.2.Core.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraGauges.v12.2.Core.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraGauges.v12.2.Core.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraGauges.v12.2.Core.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\de\DevExpress.XtraNavBar.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\es\DevExpress.XtraNavBar.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ja\DevExpress.XtraNavBar.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\ru\DevExpress.XtraNavBar.v12.2.resources.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.csprojResolveAssemblyReference.cache
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.MainForm.resources
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.ModuleEletric.frmEletricStatistics.resources
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.Properties.Resources.resources
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.csproj.GenerateResource.Cache
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.exe.licenses
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.exe
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.pdb
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\SqlAccess\Consumo.mdb
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\bin\Debug\SqlAccess\Consumo.mdb
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.ModuleEletric.frmDimmer.resources
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.ModuleHydraulic.frmHydraulicStatistics.resources
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.ModuleEletric.frmDimmer.resources
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.ModuleHydraulic.frmHydraulicStatistics.resources
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.ModuleHydraulic.frmHydraulicReal.resources
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.AboutForm.resources
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.ModuleHydraulic.frmHydraulicReal.resources
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MaqueteInteligente.Win\obj\Debug\MaqueteInteligente.Win.AboutForm.resources

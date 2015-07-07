@@ -22,7 +22,6 @@ class MainClass
  public:
 	void setup();
 	void loop();
-	void serialEvent();
 };
 
 extern MainClass mainClass;

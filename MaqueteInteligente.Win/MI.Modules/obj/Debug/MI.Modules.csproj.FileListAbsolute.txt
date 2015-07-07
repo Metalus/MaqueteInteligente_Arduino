@@ -1,0 +1,18 @@
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\obj\Debug\MI.Modules.csprojResolveAssemblyReference.cache
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\obj\Debug\MI.Modules.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\obj\Debug\MI.Modules.pdb
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\bin\Debug\MI.Modules.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\bin\Debug\MI.Modules.pdb
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\bin\Debug\MI.Modules.dll.config
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\bin\Debug\MI.Modules.dll.config
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\bin\Debug\MI.Modules.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\bin\Debug\MI.Modules.pdb
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\obj\Debug\MI.Modules.csprojResolveAssemblyReference.cache
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\obj\Debug\MI.Modules.dll
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\obj\Debug\MI.Modules.pdb
+C:\Users\Júnio\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\bin\Debug\SqlAccess\Consumo.mdb
+C:\Users\Win 64 Btis\Dropbox\Eletrônica\Books\2º Semestre\Elementos e métodos em eletrônica\Code\MaqueteInteligente.Win\MI.Modules\bin\Debug\SqlAccess\Consumo.mdb

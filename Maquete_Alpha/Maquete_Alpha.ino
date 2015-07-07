@@ -18,9 +18,3 @@ void loop()
 {
 	mainClass.loop();
 }
-
-void serialEvent()
-{
-	if(Serial.available())
-		mainClass.serialEvent();
-}

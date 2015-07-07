@@ -12,13 +12,14 @@
 class WaterSystemClass
 {
  protected:
-
+	int Volumes[3] = {180,150,100};
 
  public:
 	void ControlarTanques();
-	float GetVolumeR1();
-	float GetVolumeR2();
-	float GetVolumeTanque();
+	int GetVolumeR1();
+	int GetVolumeR2();
+	int GetVolumeTanque();
+	void ControlarLuzTanque(int Tanque, int Nivel);
 	float GetFluxo();
 };
 

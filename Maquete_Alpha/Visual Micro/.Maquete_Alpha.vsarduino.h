@@ -18,7 +18,6 @@ extern "C" void __cxa_pure_virtual() {;}
 
 //
 //
-void serialEvent();
 
 #include "D:\Program Files (x86)\Arduino\hardware\arduino\avr\variants\mega\pins_arduino.h" 
 #include "D:\Program Files (x86)\Arduino\hardware\arduino\avr\cores\arduino\arduino.h"

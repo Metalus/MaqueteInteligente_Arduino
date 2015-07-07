@@ -111,7 +111,7 @@
   <avrgcccpp.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcccpp.assembler.debugging.DebugLevel>
 </AvrGccCpp>
     </ToolchainSettings>
-    <VMSETTING_IncludePaths>D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard;../../Maquete_Alpha;D:/Program Files (x86)/Arduino/libraries;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers;{runtime.tools.avr-gcc.path}/avr/include/;{runtime.tools.avr-gcc.path}//avr/include/avr/;{runtime.tools.avr-gcc.path}/lib/gcc/avr/4.8.1/include;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega;D:/Program Files (x86)/Arduino/libraries/Ethernet/src;D:/Program Files (x86)/Arduino/libraries/Ethernet/src/utility;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/utility;D:/Program Files (x86)/Arduino/libraries/Ethercard;D:/Program Files (x86)/Arduino/libraries/Ethercard/utility;</VMSETTING_IncludePaths>
+    <VMSETTING_IncludePaths>D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard;../../Maquete_Alpha;D:/Program Files (x86)/Arduino/libraries;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers;{runtime.tools.avr-gcc.path}/avr/include/;{runtime.tools.avr-gcc.path}//avr/include/avr/;{runtime.tools.avr-gcc.path}/lib/gcc/avr/4.8.1/include;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega;D:/Program Files (x86)/Arduino/libraries/Ethernet/src;D:/Program Files (x86)/Arduino/libraries/Ethernet/src/utility;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/utility;D:/Program Files (x86)/Arduino/libraries/Ethercard;D:/Program Files (x86)/Arduino/libraries/Ethercard/utility;D:/Program Files (x86)/Arduino/libraries/UIPEthernet;D:/Program Files (x86)/Arduino/libraries/UIPEthernet/utility;</VMSETTING_IncludePaths>
     <VisualMicroSettings>
       <VisualMicroSettings>
         <arduino.upload.port>COM4</arduino.upload.port>
@@ -264,6 +264,9 @@ vm.boardsource.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr
 runtime.platform.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr
 vm.platformname.name=avr
 build.arch=AVR
+build.architecture=avr
+vmresolved.compiler.path=D:\Program Files (x86)\Arduino\hardware\tools\avr\bin\
+vmresolved.tools.path=D:\Program Files (x86)\Arduino\hardware\tools\avr
 </arduino.board.property_bag>
         <arduino.build.mcu>atmega2560</arduino.build.mcu>
         <arduino.build.f_cpu>16000000L</arduino.build.f_cpu>
@@ -348,7 +351,7 @@ build.arch=AVR
   <avrgcccpp.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcccpp.assembler.debugging.DebugLevel>
 </AvrGccCpp>
     </ToolchainSettings>
-    <VMSETTING_IncludePaths>D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard;../../Maquete_Alpha;D:/Program Files (x86)/Arduino/libraries;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers;{runtime.tools.avr-gcc.path}/avr/include/;{runtime.tools.avr-gcc.path}//avr/include/avr/;{runtime.tools.avr-gcc.path}/lib/gcc/avr/4.8.1/include;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega;D:/Program Files (x86)/Arduino/libraries/Ethernet/src;D:/Program Files (x86)/Arduino/libraries/Ethernet/src/utility;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/utility;D:/Program Files (x86)/Arduino/libraries/Ethercard;D:/Program Files (x86)/Arduino/libraries/Ethercard/utility;</VMSETTING_IncludePaths>
+    <VMSETTING_IncludePaths>D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard;../../Maquete_Alpha;D:/Program Files (x86)/Arduino/libraries;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;C:/Program Files (x86)/Visual Micro/Visual Micro for Arduino/Micro Platforms/default/debuggers;{runtime.tools.avr-gcc.path}/avr/include/;{runtime.tools.avr-gcc.path}//avr/include/avr/;{runtime.tools.avr-gcc.path}/lib/gcc/avr/4.8.1/include;D:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/mega;D:/Program Files (x86)/Arduino/libraries/Ethernet/src;D:/Program Files (x86)/Arduino/libraries/Ethernet/src/utility;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI;D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/utility;D:/Program Files (x86)/Arduino/libraries/Ethercard;D:/Program Files (x86)/Arduino/libraries/Ethercard/utility;D:/Program Files (x86)/Arduino/libraries/UIPEthernet;D:/Program Files (x86)/Arduino/libraries/UIPEthernet/utility;</VMSETTING_IncludePaths>
     <VisualMicroSettings>
       <VisualMicroSettings>
         <arduino.upload.port>COM4</arduino.upload.port>
@@ -501,6 +504,9 @@ vm.boardsource.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr
 runtime.platform.path=D:\Program Files (x86)\Arduino\hardware\arduino\avr
 vm.platformname.name=avr
 build.arch=AVR
+build.architecture=avr
+vmresolved.compiler.path=D:\Program Files (x86)\Arduino\hardware\tools\avr\bin\
+vmresolved.tools.path=D:\Program Files (x86)\Arduino\hardware\tools\avr
 </arduino.board.property_bag>
         <arduino.build.mcu>atmega2560</arduino.build.mcu>
         <arduino.build.f_cpu>16000000L</arduino.build.f_cpu>

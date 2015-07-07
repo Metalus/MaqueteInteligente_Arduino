@@ -11,82 +11,116 @@
 #include "DefinesMaquete.h"
 #include "EletricSystem.h"
 
-//EthernetServer server(80);
-//byte Ethernet::buffer[500];
-
+char Buffer[8];
 void MainClass::setup()
 {
-	/*byte MAC [] = {0xDC, 0x44, 0xDE, 0xEF, 0xF1, 0xAD };
-	byte ip  [] = {192,168,1,88};
-	byte gate[] = {192,168,1,1};
+	memset(&Buffer[0],0,8);
+	pinMode(Motor1,OUTPUT);
+	pinMode(Motor2,OUTPUT);
+	pinMode(Motor3,OUTPUT);
 	
+	pinMode(Alimentacao1, OUTPUT);
+	pinMode(Alimentacao2,OUTPUT);
+	pinMode(Alimentacao3,OUTPUT);
+	pinMode(Alimentacao4,OUTPUT);
 
-	if(!ether.begin(sizeof Ethernet::buffer,MAC))
-	Serial.println("Módulo Wifi erro");
+	pinMode(AlimentacaoLdr1,OUTPUT);
+	pinMode(AlimentacaoLdr2,OUTPUT);
+	pinMode(AlimentacaoLdr3,OUTPUT);
+	pinMode(AlimentacaoLdr4,OUTPUT);
+	pinMode(AlimentacaoLdr5,OUTPUT);
 	
-	ether.staticSetup(ip,gate);
+	pinMode(Q1_Lampada,OUTPUT);
+	pinMode(Q1_Sensor,INPUT);
 	
-	if(!ether.dhcpSetup())
-	Serial.println("DHCP Failed.");*/
+	pinMode(Q2_Lampada,OUTPUT);
+	pinMode(Q2_Sensor,INPUT);
+	
+	pinMode(Sala_Lampada,OUTPUT);
+	pinMode(Sala_Sensor,INPUT);
+	
+	pinMode(Cozinha_Lampada,OUTPUT);
+	pinMode(Cozinha_Sensor,INPUT);
+	
+	pinMode(Banheiro_Lampada, OUTPUT);
+	pinMode(Banheiro_Sensor,INPUT);
+	
+	pinMode(VermelhoT1,OUTPUT);
+	pinMode(AmareloT1,OUTPUT);
+	pinMode(VerdeT1,OUTPUT);
+	
+	pinMode(VermelhoT2,OUTPUT);
+	pinMode(AmareloT2,OUTPUT);
+	pinMode(VerdeT2,OUTPUT);
+	
+	pinMode(VermelhoT3,OUTPUT);
+	pinMode(AmareloT3,OUTPUT);
+	pinMode(VerdeT3,OUTPUT);
+	
+	pinMode(Banheiro_Lampada,OUTPUT);
+	pinMode(Banheiro_Sensor,INPUT);
+	
+	
+	digitalWrite(Alimentacao1,HIGH);
+	digitalWrite(Alimentacao2,HIGH);
+	digitalWrite(Alimentacao3,HIGH);
+	digitalWrite(Alimentacao4,HIGH);
+	
+	digitalWrite(AlimentacaoLdr1,HIGH);
+	digitalWrite(AlimentacaoLdr2,HIGH);
+	digitalWrite(AlimentacaoLdr3,HIGH);
+	digitalWrite(AlimentacaoLdr4,HIGH);
+	digitalWrite(AlimentacaoLdr5,HIGH);
 	
 	Serial.begin(115200);
+	//digitalWrite(Q1_Lampada,HIGH);
+	//digitalWrite(Q2_Lampada,HIGH);
+	//digitalWrite(Sala_Lampada,HIGH);
+	//digitalWrite(Banheiro_Lampada,HIGH);
+	//digitalWrite(Cozinha_Lampada,HIGH);
+
 }
 
 void MainClass::loop()
 {
-	/*EthernetClient client =	server.available();
-	if(client) { Serial.println("Novo client conectado"); }
-	while(client.connected() && client.available())
+	for(int i = 0; i < 50;i++)
 	{
-	if(client.parseInt() == VolumeR1)
-	client.println("V1:51");
-	}*/
-
-	EletricSystem.Dimerizar(Quarto1);
-	EletricSystem.Dimerizar(Quarto2);
-	EletricSystem.Dimerizar(Cozinha);
-	EletricSystem.Dimerizar(Banheiro);
-	EletricSystem.Dimerizar(Sala);
+		EletricSystem.Dimerizar(Quarto1);
+		EletricSystem.Dimerizar(Quarto2);
+		EletricSystem.Dimerizar(Cozinha);
+		
+		EletricSystem.Dimerizar(Sala);
+		EletricSystem.Dimerizar(Banheiro);
+		WaterSystem.ControlarTanques();
+	}
 	
-	WaterSystem.ControlarTanques();
-}
-
-void MainClass::serialEvent()
-{
-	short Args = (Serial.parseInt() & 0xFFFF);
-	float D = 0;
+	if(!Serial.available()) { return; }
+	for(int i = 0; Serial.available(); i++) 
+		Buffer[i] = Serial.read();
 	
+	int Args = atoi(Buffer);
+	
+	memset(&Buffer[0],0,8);
 	if((Args & VolumeR1) == VolumeR1)
 	{
-		
-		D = WaterSystem.GetVolumeR1();
-		Serial.println("V1:");
-		Serial.println(D);
+		Serial.print("V1:");
+		Serial.println(WaterSystem.GetVolumeR1());
 	}
 	if((Args & VolumeR2) == VolumeR2)
 	{
-		D = WaterSystem.GetVolumeR2();
 		Serial.print("V2:");
-		Serial.println(D);
+		Serial.println(WaterSystem.GetVolumeR2());
 	}
-	
+
 	if((Args & VolumeTanque) == VolumeTanque)
 	{
-		D = WaterSystem.GetVolumeTanque();
 		Serial.print("VT:");
-		Serial.println(D);
-	}
-	
-	if((Args & Fluxo) == Fluxo)
-	{
-		D = WaterSystem.GetFluxo();
-		Serial.print("FL:");
-		Serial.println(D);
+		Serial.println(WaterSystem.GetVolumeTanque());
 	}
 	
 	if((Args & ValorIluminacao) == ValorIluminacao)
 	{
-		Serial.print("VA:");
+		Serial.println("VI:");
 		Serial.println(EletricSystem.LuminosidadeAtual[Quarto1]);
 		Serial.println(EletricSystem.LuminosidadeAtual[Quarto2]);
 		Serial.println(EletricSystem.LuminosidadeAtual[Sala]);
@@ -94,11 +128,13 @@ void MainClass::serialEvent()
 		Serial.println(EletricSystem.LuminosidadeAtual[Banheiro]);
 	}
 	
-	EletricSystem.LuminosidadeAtual[Quarto1]  = (Args & OffLuz_Q1)		 == OffLuz_Q1		? -1 : EletricSystem.LuminosidadeAtual[Quarto1];
-	EletricSystem.LuminosidadeAtual[Quarto2]  = (Args & OffLuz_Q2)		 == OffLuz_Q2		? -1 : EletricSystem.LuminosidadeAtual[Quarto2];
-	EletricSystem.LuminosidadeAtual[Sala]	  = (Args & OffLuz_Sala)     == OffLuz_Sala		? -1 : EletricSystem.LuminosidadeAtual[Sala];
-	EletricSystem.LuminosidadeAtual[Cozinha]  = (Args & OffLuz_Cozinha)  == OffLuz_Cozinha	? -1 : EletricSystem.LuminosidadeAtual[Cozinha];
-	EletricSystem.LuminosidadeAtual[Banheiro] = (Args & OffLuz_Banheiro) == OffLuz_Banheiro ? -1 : EletricSystem.LuminosidadeAtual[Banheiro];
+	Serial.print(";");
+	EletricSystem.DesabilitarLeds[Quarto1]   = (Args & OffLuz_Q1)	    == OffLuz_Q1;
+	EletricSystem.DesabilitarLeds[Quarto2]   = (Args & OffLuz_Q2)	    == OffLuz_Q2;
+	EletricSystem.DesabilitarLeds[Sala]	     = (Args & OffLuz_Sala)     == OffLuz_Sala;
+	EletricSystem.DesabilitarLeds[Cozinha]   = (Args & OffLuz_Cozinha)  == OffLuz_Cozinha;
+	EletricSystem.DesabilitarLeds[Banheiro]  = (Args & OffLuz_Banheiro) == OffLuz_Banheiro;
+	
 }
 
 MainClass mainClass;

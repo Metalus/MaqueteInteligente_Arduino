@@ -4,28 +4,53 @@ EletricSystemClass EletricSystem;
 
 void EletricSystemClass::Dimerizar(ComodosEnum comodo)
 {
+	int luminosidade;
 	int Lampada = Comodos::GetLampadaID(comodo);
 	int Sensor = Comodos::GetSensorID(comodo);
-	if(LuminosidadeAtual[comodo] < 0)
+	if(DesabilitarLeds[comodo])
 	{
+		LuminosidadeAtual[comodo] = 0;
+		LedOff[comodo] = true;
 		digitalWrite(Lampada, LOW);
 		return;
 	}
 	
-	int luminosidade = map(analogRead(Sensor), 0, 800, 0, 255);
-	if(LuminosidadeAtual[comodo] != luminosidade && luminosidade >= 25)
+	switch(comodo)
+	{
+		case Quarto1:
+		luminosidade = map(analogRead(Sensor), 0, 950, 0, 255);
+		break;
+		
+		case Quarto2:
+		luminosidade = map(analogRead(Sensor),0, 290,0,255);
+		break;
+		
+		case Sala:
+		luminosidade = map(analogRead(Sensor),0, 450,0,255);
+		break;
+		
+		case Banheiro:
+		luminosidade = map(analogRead(Sensor),0, 450,0,255);
+		break;
+		
+		case Cozinha:
+		luminosidade = map(analogRead(Sensor), 0, 1023,0,255);
+		break;
+		
+	}
+	luminosidade = luminosidade > 255 ? 255 : luminosidade;
+	if(LuminosidadeAtual[comodo] != luminosidade && luminosidade >= 32)
 	{
 		if(LuminosidadeAtual[comodo] > luminosidade)
-			LuminosidadeAtual[comodo]--;
+		LuminosidadeAtual[comodo]--;
 		else
-			LuminosidadeAtual[comodo]++;
+		LuminosidadeAtual[comodo]++;
 		
-		delay(10);
-		analogWrite(Lampada,LuminosidadeAtual[comodo]);
+		analogWrite(Lampada, LuminosidadeAtual[comodo]);
 		LedOff[comodo] = false;
 	}
 	
-	else if(LuminosidadeAtual[comodo] != luminosidade && luminosidade < 25 && !LedOff[comodo])
+	else if(LuminosidadeAtual[comodo] != luminosidade && luminosidade < 30 && !LedOff[comodo])
 		DesligarLed(comodo, Lampada);
 }
 
@@ -34,7 +59,6 @@ void EletricSystemClass::DesligarLed(ComodosEnum comodo, int Lampada)
 	for(int i = LuminosidadeAtual[comodo]; i>=0;i--)
 	{
 		analogWrite(Lampada, i);
-		delay(10);
 	}
 	
 	digitalWrite(Lampada, LOW);

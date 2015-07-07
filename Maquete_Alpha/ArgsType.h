@@ -32,16 +32,11 @@ enum ArgsType : long
 	OffDimmer_Cozinha	= 0x2000,
 
 	//Pegar o consumo de iluminação da casa
-	PegarIluminacao		= 0x4000,
+	ValorIluminacao		= 0x4000,
 
 	//Desligar client
-	ShutdownClient		= 0x8000,
-	
-	
-	ValorIluminacao		= 0x10000
-	
-	
-	
+	ShutdownClient		= 0x8000
+
 };
 
 
